@@ -1,0 +1,15 @@
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\obj\Debug\net6.0\HashingandBST.csproj.AssemblyReference.cache
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\obj\Debug\net6.0\HashingandBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\obj\Debug\net6.0\HashingandBST.AssemblyInfoInputs.cache
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\obj\Debug\net6.0\HashingandBST.AssemblyInfo.cs
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\obj\Debug\net6.0\HashingandBST.csproj.CoreCompileInputs.cache
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\bin\Debug\net6.0\HashingandBST.exe
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\bin\Debug\net6.0\HashingandBST.deps.json
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\bin\Debug\net6.0\HashingandBST.runtimeconfig.json
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\bin\Debug\net6.0\HashingandBST.dll
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\bin\Debug\net6.0\HashingandBST.pdb
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\obj\Debug\net6.0\HashingandBST.dll
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\obj\Debug\net6.0\refint\HashingandBST.dll
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\obj\Debug\net6.0\HashingandBST.pdb
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\obj\Debug\net6.0\HashingandBST.genruntimeconfig.cache
+C:\Users\Humera\source\repos\HashingandBST\HashingandBST\obj\Debug\net6.0\ref\HashingandBST.dll
